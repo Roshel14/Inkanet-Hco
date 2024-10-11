@@ -1,0 +1,20 @@
+.btn-inicio-sesion {
+	background-color: #0e99d0;
+	color: #fff;
+	border: none;
+	padding: 1px 25px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+  }
+  .btn-inicio-sesion:hover {
+	background-color: #4ac62b;
+	color: #fff;
+	border: none;
+	padding: 1px 25px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+  }

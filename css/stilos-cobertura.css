@@ -1,0 +1,162 @@
+path.fil23{
+    fill: #D3D3D3;
+    
+}
+path.fil31{
+    fill: #CEFB8A;
+    
+}
+path.fil33{
+    fill: #9FD299;
+    
+}
+path.salas{
+    fill: #EEEEEE;
+    
+}
+path.fil26{
+    fill: #EFC4D5;
+    
+}
+path.fil24{
+    fill: #D3D3D3;
+    
+}
+path.jayanca{
+    fill: #E9DF58;
+    
+}
+path.fil25{
+    fill: #C3FFC3;
+    
+}
+path.fil16{
+    fill: #E1C8A9;
+    
+}
+path.pitipo{
+    fill: #FEA4A4;
+    
+}
+path.fil13{
+    fill: #E2A6A6;
+    
+}
+path.fil28{
+    fill: #9BC0C1;
+    
+}
+path.fil27{
+    fill: #88FBAC;
+    
+}
+path.fil21{
+    fill: #EBA8B1;
+    
+}
+path.lambayeque, path.fil20{
+    fill: #B4E2FC;
+    
+}
+path.fil22{
+    fill: #E2E081;
+    
+}
+path.fil11{
+    fill: #C09AC1;
+    
+}
+path.fil12{
+    fill: #EBA8B1;
+    
+}
+path.reque{
+    fill: #E0DD54;
+    
+}
+path.fil13{
+    fill: #F9F981;
+    
+}
+path.fil7{
+    fill: #DADC92;
+    
+}
+path.fil3{
+    fill: #F9F981;
+    
+}
+path.pucala{
+    fill: #C5D899;
+    
+}
+path.posope{
+    fill: #9FD09D;
+    
+}
+path.fil30{
+    fill: #E9DCFE;
+    
+}
+path.illimo{
+    fill: #C6D3A0;
+    
+}
+path.fil17{
+    fill: #F4E0FE;
+    
+}
+path.fil18{
+    fill: #E0FCE5;
+    
+}
+path.fil5{
+    fill: #fff;
+    
+}
+path.fil6{
+    fill: #F5C0C8;
+    
+}
+path.fil34{
+    fill: #E0A7A8;
+    
+}
+path.pomalca{
+    fill: #A1ACBF;
+    
+}
+path.chiclayo{
+    fill: #98CE44;
+    
+}
+path.fil1{
+    fill: #ECF3E9;
+}
+path.fil4{
+    fill: #B3A773;
+}
+path.pimentel{
+    fill: #CCA9C6;
+}
+path.sanjose{
+    fill: #C2AA71;
+}
+path.tuman{
+    fill: #E4FBEE;
+}
+
+/*path:hover{
+    fill: #087DC2;
+}*/
+path{
+    transition: 0.3s all;
+    stroke: #646464;
+    stroke-width: 0.5px;
+}
+.controls{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-top:20px;
+}
