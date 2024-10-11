@@ -15,6 +15,7 @@
 	}
 	
 	h3{
+	         color: var(--black-color)
 		font-size:var(--font-30);
 	}
 	
