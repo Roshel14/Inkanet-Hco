@@ -563,6 +563,7 @@ h2{
 }
 
 h3{
+	color:var(--black-color);
 	line-height:1.3em;
 	font-size:var(--font-36);
 }
